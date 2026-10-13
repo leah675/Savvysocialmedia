@@ -1,0 +1,23 @@
+{
+  "series": "wealthcode",
+  "size": "portrait",
+  "slides": [
+    {"layout": "cover", "icon": "folder", "title": "If something happened tomorrow, would you know where it [[all]] is?"},
+    {"layout": "quote", "lines": ["The 401(k).", "The life insurance.", "The old IRA.", "The passwords.", "The safe deposit key."], "size": 76},
+    {"layout": "statement", "title": "So many women find out what they have at the [[worst]] possible moment."},
+    {"layout": "quote", "kicker": "Not knowing isn't a character flaw.", "lines": ["It's usually a habit:", "\"He handles that.\""], "size": 84},
+    {"layout": "statement", "icon": "shield", "title": "Knowing is a form of [[protection]].", "size": 104},
+    {"layout": "list", "title": "Start a simple list:", "items": ["Every account", "Where it's held", "Who the beneficiary is", "Who to call"]},
+    {"layout": "list", "title": "Then ask:", "items": ["Is my name on it?", "Is the beneficiary current?", "Would someone I trust know where to find this?"]},
+    {"layout": "signoff", "title": "You don't have to manage every dollar.\nYou do deserve to know where every dollar [[is]].", "footnote": "Educational only. Not individualized financial, tax, or legal advice."}
+  ],
+  "story": [
+    {"layout": "statement", "kicker": "Be honest", "title": "Could you list every account in your house right now?", "body": "Yes / Not all of them"},
+    {"layout": "statement", "kicker": "You're not alone", "title": "Most people can't. It's a [[habit]], not a flaw."},
+    {"layout": "statement", "kicker": "Today", "title": "The one list that [[protects]] you."},
+    {"layout": "statement", "icon": "folder", "kicker": "Link in bio", "title": "Do you know where it [[all]] is?", "footnote": "Educational only. Not individualized advice."}
+  ],
+  "reelCover": {"icon": "folder", "title": "Would you know where it [[all]] is?"},
+  "endcard": {"title": "Knowing is protection.", "disclosure": "This is for educational purposes only and is not individualized financial, tax, or legal advice."},
+  "banner": {"icon": "folder", "title": "Would you know where it [[all]] is?", "body": "The one list that protects you."}
+}

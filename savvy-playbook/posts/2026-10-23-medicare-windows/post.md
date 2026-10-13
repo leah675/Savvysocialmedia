@@ -96,3 +96,22 @@ Navy portrait carousel. Slide 1: Leah in a tailored navy suit beside a gold line
 - [ ] Approval ID logged; post from archived account
 - [x] No hashtags; caption under 2,200
 - [x] No em dashes or tildes
+
+## Visual files
+Rendered from `visuals.json` into `visuals/`. Submit these with the copy above.
+- `visuals/linkedin-cover.png`
+- `visuals/newsletter-banner.png`
+- `visuals/reel-cover.png`
+- `visuals/reel-endcard.png`
+- `visuals/slide-01.png`
+- `visuals/slide-02.png`
+- `visuals/slide-03.png`
+- `visuals/slide-04.png`
+- `visuals/slide-05.png`
+- `visuals/slide-06.png`
+- `visuals/slide-07.png`
+- `visuals/slide-08.png`
+- `visuals/story-01.png`
+- `visuals/story-02.png`
+- `visuals/story-03.png`
+- `visuals/story-04.png`

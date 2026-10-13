@@ -7,7 +7,7 @@ Reviewed October 13, 2026 against the Brand Voice Guide, both social media kits,
 | Week of | Submit by | Status |
 |---|---|---|
 | Oct 12 | "Now" | Oct 14 and Oct 16 are sample-ready; send today if not already sent |
-| Oct 19 | "Now" | Oct 21 (stay-at-home mom) and Oct 23 (Medicare) need copy. Drafts are in `drafts/`. |
+| Oct 19 | "Now" | Oct 21 (stay-at-home mom) and Oct 23 (Medicare) need copy. Drafts with visuals are in `wealth-code/posts/` and `savvy-playbook/posts/`. |
 | Oct 26 | **Oct 12 (passed yesterday)** | Oct 28 (caregiver squeeze) and Oct 30 (health insurance before 65) are overdue for submission |
 | Nov 2 | Oct 19 (6 days out) | Nov 4 (saving isn't investing) and Nov 6 (three ways to plan for LTC) |
 | Holiday greetings | "In October" | The full batch of 11 greetings should go in this month |

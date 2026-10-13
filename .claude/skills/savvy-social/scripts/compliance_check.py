@@ -30,7 +30,7 @@ RED_FLAGS = [
     (r"\b(never|can't|cannot|won't) lose\b", "promissory", "BLOCKER"),
     (r"\byou will (retire|be rich|get rich|save|make|never)\b", "promissory 'you will'", "BLOCKER"),
     (r"\b(get rich|retire early|millionaire by)\b", "outcome promise", "BLOCKER"),
-    (r"\bsafe\b", "'safe' can imply no risk. Consider 'designed to reduce risk'", "REVIEW"),
+    (r"\bsafe\b(?! deposit| harbor)", "'safe' can imply no risk. Consider 'designed to reduce risk'", "REVIEW"),
     (r"\balways\b", "'always' can be promissory. Check context", "REVIEW"),
     (r"\btax[- ]free\b(?![^.\n]{0,60}(when|if|qualified|rules|conditions|requirements))",
      "'tax-free' on its own. Add 'when rules are met' / 'qualified withdrawals'", "REVIEW"),

@@ -1,0 +1,24 @@
+{
+  "series": "playbook",
+  "size": "portrait",
+  "linkedin": true,
+  "slides": [
+    {"layout": "cover", "icon": "calendar", "title": "Your life insurance might [[retire]] the same day you do."},
+    {"layout": "text", "kicker": "How it usually works", "title": "Many people's only life insurance comes through [[work]].", "body": "Group term coverage usually ends when employment ends."},
+    {"layout": "text", "kicker": "And sometimes", "title": "That can include coverage on a [[spouse]].", "body": "Through the same employer plan."},
+    {"layout": "text", "kicker": "Why it matters", "title": "The survivor's expenses don't drop by [[half]].", "body": "If one spouse passes, a pension, annuity income, or one Social Security check may stop."},
+    {"layout": "text", "kicker": "Before your last day", "title": "Some group plans let you [[convert]] or carry coverage.", "body": "The cost and terms vary, so compare them before you leave."},
+    {"layout": "list", "title": "Options to price:", "items": ["Converting group coverage", "A new individual term or permanent policy", "Using other assets to cover the gap"], "body": "Each has costs, underwriting, and tradeoffs."},
+    {"layout": "list", "title": "Ask before you retire:", "items": ["What coverage ends?", "Can it be converted?", "What would the survivor need?", "What would it cost to replace?"]},
+    {"layout": "signoff", "title": "Retirement plans cover income.\nMake sure yours covers the [[survivor]] too.", "footnote": "Educational only. Savvy Financial and its affiliates do not provide tax advice. Guarantees are based on the claims-paying ability of the issuing insurance company."}
+  ],
+  "story": [
+    {"layout": "statement", "kicker": "True or false?", "title": "My life insurance through work continues after I [[retire]]."},
+    {"layout": "statement", "kicker": "Usually false", "title": "Group term coverage typically ends with the [[job]]."},
+    {"layout": "statement", "kicker": "This Friday", "title": "What to check before your [[last day]]."},
+    {"layout": "statement", "icon": "calendar", "kicker": "Link in bio", "title": "Your life insurance might [[retire]] when you do.", "footnote": "Educational only. Not individualized advice."}
+  ],
+  "reelCover": {"icon": "calendar", "title": "Your life insurance might [[retire]] when you do."},
+  "endcard": {"title": "Cover the survivor too.", "disclosure": "Educational only. Savvy Financial and its affiliates do not provide tax advice. Guarantees are based on the claims-paying ability of the issuing insurance company. Please consult a qualified professional regarding your specific situation."},
+  "banner": {"icon": "calendar", "title": "Your life insurance might [[retire]] before you do.", "body": "What ends on your last day at work, and what to check now."}
+}

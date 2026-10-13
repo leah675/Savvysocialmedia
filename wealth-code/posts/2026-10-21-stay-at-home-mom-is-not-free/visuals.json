@@ -1,0 +1,23 @@
+{
+  "series": "wealthcode",
+  "size": "portrait",
+  "slides": [
+    {"layout": "cover", "icon": "family", "title": "The stay-at-home mom is not [[free]]."},
+    {"layout": "quote", "lines": ["\"I don't really work.\"", "\"My income doesn't count.\"", "\"We only need coverage on him.\""], "size": 72},
+    {"layout": "statement", "title": "Of course it feels that way.", "body": "Nobody sends you a W-2 for school pickup, the doctor's appointments, the meals, the calendar, the 2 a.m. fevers.", "size": 84},
+    {"layout": "statement", "kicker": "The question a plan asks", "title": "If she couldn't do it anymore, what would it [[cost]] to replace?"},
+    {"layout": "list", "title": "Price it out:", "items": ["Childcare", "Driving", "Cooking and cleaning", "Running the house", "Caring for aging parents", "The mental load nobody sees"], "itemSize": 50},
+    {"layout": "statement", "title": "Not because her love has a price.\nBecause the [[work]] does.", "body": "Life insurance on a non-earning parent is worth a real conversation. Coverage has a cost, underwriting, and tradeoffs, so compare options before you decide.", "size": 76},
+    {"layout": "list", "title": "Ask together:", "items": ["What does she do in a week?", "What would it cost to replace while the kids are home?", "Is there any coverage on her right now?"]},
+    {"layout": "signoff", "title": "Her work doesn't come with a paycheck.\nIt still holds [[everything]] together.", "body": "Protect it like it matters, because it does.", "footnote": "Educational only. Not individualized advice. Insurance guarantees depend on the claims-paying ability of the issuer; coverage is subject to underwriting."}
+  ],
+  "story": [
+    {"layout": "statement", "kicker": "Poll", "title": "Is there life insurance on the stay-at-home parent in your house?", "body": "Yes / No / Not sure"},
+    {"layout": "statement", "kicker": "If you said \"not sure\"", "title": "You're not alone. It's one of the most common [[gaps]] in a family plan."},
+    {"layout": "statement", "kicker": "Today's Wealth Code", "title": "What would it actually cost to replace everything [[she]] does?"},
+    {"layout": "statement", "icon": "family", "kicker": "Link in bio", "title": "The stay-at-home mom is not [[free]].", "footnote": "Educational only. Not individualized advice."}
+  ],
+  "reelCover": {"icon": "family", "title": "The stay-at-home mom is not [[free]]."},
+  "endcard": {"title": "Protect it like it matters.", "disclosure": "Educational only. Not individualized financial, tax, or legal advice. Life insurance guarantees are based on the claims-paying ability of the issuing insurance company. Coverage is subject to underwriting."},
+  "banner": {"icon": "family", "title": "The stay-at-home mom is not [[free]].", "body": "What it would cost to replace everything she does."}
+}

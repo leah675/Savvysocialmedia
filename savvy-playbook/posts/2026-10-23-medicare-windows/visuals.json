@@ -1,0 +1,24 @@
+{
+  "series": "playbook",
+  "size": "portrait",
+  "linkedin": true,
+  "slides": [
+    {"layout": "cover", "icon": "calendar", "title": "Medicare has more than [[one]] enrollment window.", "body": "Mixing them up can be expensive."},
+    {"layout": "text", "kicker": "Open Enrollment", "title": "October 15 to December 7", "body": "Changes take effect January 1.\nThis is the window for reviewing and switching coverage [[you already have]]."},
+    {"layout": "text", "kicker": "Initial Enrollment", "title": "The window to watch is the [[first]] one.", "body": "About 7 months around your 65th birthday: 3 months before, your birthday month, and 3 months after."},
+    {"layout": "text", "kicker": "Why it matters", "title": "Late enrollment can follow you.", "body": "Skip Part B or Part D when you're first eligible, without other qualifying coverage, and a penalty can be added to your premium. In many cases, for as long as you have that coverage."},
+    {"layout": "text", "kicker": "Still working at 65?", "title": "Current employer coverage may let you [[wait]].", "body": "A Special Enrollment Period can follow when the job or coverage ends.\nUsually doesn't count: COBRA and retiree coverage."},
+    {"layout": "text", "kicker": "One more date", "title": "Have an HSA?", "body": "Contributions have to stop before Medicare begins, and Part A can start retroactively.\nTalk with your CPA about the timing."},
+    {"layout": "list", "title": "Ask before you retire:", "items": ["When does my Initial Enrollment Period start?", "Does my current coverage count?", "Does my HSA need a stop date?", "What happens to my spouse's coverage?"]},
+    {"layout": "signoff", "title": "Retirement is a date you choose.\nMedicare has dates that [[choose for you]].", "body": "Know them first.", "footnote": "Educational only. Source: Medicare.gov. Savvy Financial and its affiliates do not provide tax advice."}
+  ],
+  "story": [
+    {"layout": "statement", "kicker": "True or false?", "title": "Missing Open Enrollment means a [[lifetime]] Medicare penalty.", "body": "Vote, then tap for the answer."},
+    {"layout": "statement", "kicker": "Mostly false", "title": "The penalties usually come from missing your [[first]] window.", "body": "That's your Initial Enrollment Period around 65."},
+    {"layout": "statement", "kicker": "This Friday", "title": "The Playbook maps every Medicare window.", "body": "Save it before your next planning meeting."},
+    {"layout": "statement", "kicker": "Link in bio", "title": "Medicare has more than [[one]] window.", "footnote": "Educational only. Source: Medicare.gov. Not individualized advice."}
+  ],
+  "reelCover": {"icon": "calendar", "title": "Medicare has more than [[ONE]] window."},
+  "endcard": {"title": "Know your dates first.", "disclosure": "Educational only. Source: Medicare.gov. Savvy Financial and its affiliates do not provide tax advice. Please consult a qualified tax professional regarding your specific situation."},
+  "banner": {"icon": "calendar", "title": "Medicare has more than [[one]] enrollment window.", "body": "Here's the one that can follow you for years."}
+}

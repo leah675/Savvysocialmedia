@@ -24,6 +24,7 @@ The references hold the full source material. Read only what the request needs:
 | Hooks, retention, shareability | `references/viral-hooks.md` |
 | "What's next on the calendar?" / dates / deadlines | `references/content-calendar.md` and `references/calendar-review.md` |
 | Website language and firm facts | `references/website-notes.md` |
+| Creating the images (every post) | `references/visuals.md` |
 
 If the user names a calendar slot ("Wednesday Oct 21"), pull the topic, hook, avatar, and notes from the calendar and use the calendar review's corrections where they apply.
 
@@ -110,7 +111,19 @@ python3 <skill-dir>/scripts/compliance_check.py path/to/draft.md
 
 It flags banned words, em dashes, tildes, hashtags, caption length, testimonial/performance language, and which disclosures the topic triggers. Fix what it flags or explain in the compliance notes why a flag is a false positive. The checker is a safety net, not the judge: you still read the draft against the full rules, and the firm's compliance team has the final say.
 
-## Step 6: Run the Savvy Filter
+## Step 6: Create the visuals (every post)
+
+A post isn't finished until its images exist. Write a `visuals.json` next to the post and render it:
+
+```bash
+node <skill-dir>/scripts/render_visuals.mjs path/to/post-folder/visuals.json
+```
+
+This produces on-brand PNGs in a `visuals/` folder: every carousel slide, the story frames, a reel cover and end card (with the on-screen disclosure), a newsletter banner, and a LinkedIn cover for Playbook posts. It uses the real SF monogram, the navy/gold/cream palette, Playfair Display headlines, and Carlito (Calibri-metric) body text. `references/visuals.md` has the spec format, icon list, and design rules.
+
+Then **look at the images** (build a contact sheet or open a few) before delivering. Check that nothing is cut off, the accent word is the one that carries the weight, the slide text matches the approved copy word for word, and the last slide or end card carries the disclosure. If the renderer notes it shrank text a lot, shorten the copy rather than accept tiny type.
+
+## Step 7: Run the Savvy Filter
 
 Before delivering, ask:
 - Does this sound like a human or a financial institution?
@@ -167,7 +180,18 @@ Palette, photo or metaphor, which word goes gold/italic/CAPS, logo placement, si
 
 If the user asks for something quick ("just give me 5 hooks"), skip the full package, but still keep every line compliant and note any disclosure the eventual post will need.
 
-Save finished drafts to the repo's `drafts/` folder (one markdown file per post, named like `2026-10-21-wealth-code-stay-at-home-mom.md`) when working in the Savvy repo.
+When working in the Savvy repo, save each post in its own folder inside its series folder:
+
+```
+savvy-playbook/posts/2026-10-23-medicare-windows/     (Playbook)
+wealth-code/posts/2026-10-21-stay-at-home-mom-is-not-free/   (Wealth Code)
+general/posts/<date>-<slug>/                          (firm news, greetings)
+  post.md         the compliance package above
+  visuals.json    the visual spec
+  visuals/        the rendered PNGs (slide-01.png ... story-01.png, reel-cover.png, reel-endcard.png, newsletter-banner.png)
+```
+
+Add a `## Visual files` list to the end of `post.md` so compliance gets the art and the copy together.
 
 ## Leah's voice vs. Savvy's voice
 
